@@ -21,9 +21,9 @@ The Fashion MNIST Data set had 10 kinds of fashion objects which were fed as an 
  
  Obtained :
   
-  Training Accuracy - 95%
+  Training Accuracy - 90%
   
-  Test Accuracy - 89%.
+  Test Accuracy - 88%.
 
 The Data sets for the models have **not** been provided in the repository as these data sets are inherently present in the Keras API.
 
